@@ -1,2 +1,22 @@
-# digica-coming-soon-template
- A coming soon template in html, css and js ready to be customized.
+# Comming soon template
+A coming soon template written in html, css and js ready to be customized.
+
+# Attribution
+
+    Thanks for using free lite Version. Sooner is part of our coming soon, under construction and launch page template project called - SoonLaunch. You can check out SoonLaunch website for more amazing coming soon templates.
+
+    https://soonlaunch.com/
+
+    FREE VERSION LICENSE:
+
+    1. Commercial Use - Not Allowed
+    2. Attribution - Required
+    3. Documentation - Not Available
+    4. Support - Not Provided
+    5. Personal Project - Allowed
+
+    Please, purchase full version to get all features and permissions to use with commercial projects
+
+    Best regards
+
+***
